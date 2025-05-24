@@ -42,3 +42,22 @@ Integrate with pytest
 Set up GitHub Actions for CI/CD
 
 Created with Selenium + Edge WebDriver.
+
+
+
+---
+
+### **How to Add This to Your Project**
+1. **Create the file in VS Code**:
+   ```powershell
+   code README.md
+Paste the content above and save.
+
+Commit and push:
+
+powershell
+git add README.md
+git commit -m "Add project documentation"
+git push
+
+
