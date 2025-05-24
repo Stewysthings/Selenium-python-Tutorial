@@ -1,0 +1,9 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Selenium/Test Artifacts
+*.png
+msedgedriver.exe
+Driver_Notes/
